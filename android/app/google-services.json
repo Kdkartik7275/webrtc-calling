@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57239661195",
+    "project_id": "hi-coach-cd4fa",
+    "storage_bucket": "hi-coach-cd4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57239661195:android:0711dd00aa945bd555c28e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkN1SdUycbYwqjWksU-vh5Xoo5QgFaXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57239661195:android:eaf2f0ec9fd9b62755c28e",
+        "android_client_info": {
+          "package_name": "com.example.webrtc_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkN1SdUycbYwqjWksU-vh5Xoo5QgFaXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
